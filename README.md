@@ -5,4 +5,6 @@ Weekly/Biweekly assignments of the course [Physical Models of Living Systems](ht
 - [hw02](hw02_Spatial_Scaling_RSA.ipynb): Spatial scaling of the SAD
 - [hw03](hw03_Lotka_Volterra.ipynb): Simulation of the Lotka-Volterra equations
 - [hw04](hw04_Ecological_Interactions.ipynb): Modelling ecological interactions through random matrices and analysis of the food web 
-- [hw05](hw05_Generalized_Consumer_Resource_Model.ipynb): Simulation of the Generalized Consumer Resource Model in the case $m=p=5$; comparison of the analytical and the numerical solutions, simulation of the QSA
+- [hw05, 06](hw05_Generalized_Consumer_Resource_Model.ipynb): Simulation of the Generalized Consumer Resource Model in the case $m=p=5$; comparison of the analytical and the numerical solutions, simulation of the QSA
+- [hw07](hw07_Avalanche_Duration_Probability.ipynb): Analytical calculation of the avalanche duration probability $P_>(t)$ if $\lambda i = \lambda$ for all $t$ and all neurons; simulation of independent heterogeneous Poisson processes
+- [hw8](hw08_Stability_of_ExitatoryInhibitory_Two_Neurons_System.ipynb): Study of the stability of the excitatory-inhibitory two neurons system plus simulation both in the stable regime and in the limit cycle regime
