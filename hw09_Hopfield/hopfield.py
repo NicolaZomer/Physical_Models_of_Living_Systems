@@ -122,7 +122,7 @@ mynet = HopfieldNet(N, patterns)
 
 
 ## STEP 3: SET ANOTHER INPUT PATTERN AS INITIAL CONDITION
-newinput = readPatterns("inputs/samir.jpg", size=[Lx,Ly]) # read the pattern from a file
+newinput = readPatterns("inputs/superman.jpg", size=[Lx,Ly]) # read the pattern from a file
 mynet.set_state(newinput) # set the pattern as the initial condition of the network 
 plt.matshow(np.resize(mynet.s,(Lx,Ly)), cmap=plt.cm.gray, fignum=0) # read the state (we reconvert it to a Lx*Ly matrix) and plot it
 plt.title("Initial condition")

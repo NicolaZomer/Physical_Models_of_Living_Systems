@@ -11,3 +11,4 @@ The solutions of the exercises are carried out in the pdf file [PMoLS.pdf](PMoLS
 - [hw07](hw07_Avalanche_Duration_Probability.ipynb): Analytical calculation of the avalanche duration probability $P_>(t)$ if $\lambda_i = \lambda$ for all $t$ and all neurons; simulation of independent heterogeneous Poisson processes
 - [hw08](hw08_Stability_of_ExitatoryInhibitory_Two_Neurons_System.ipynb): Study of the stability of the excitatory-inhibitory two neurons system plus simulation both in the stable regime and in the limit cycle regime
 - [hw09](hw09_Hopfield): Hopfield Networks, creation of a network that learns some binary patterns and evolution setting another pattern as initial condition
+- [hw10](hw10_Two_Stage_Model.ipynb): Simulation of the stochastic dynamics of the two stage model, using the Gillespie algorithm
